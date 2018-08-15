@@ -45,7 +45,6 @@ end
 # Return the cart
 
 def apply_coupons(cart, coupons)
-  binding.pry
   coupons.each do |coupon|
 
   end
