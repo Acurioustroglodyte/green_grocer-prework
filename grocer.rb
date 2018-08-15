@@ -35,6 +35,7 @@ def apply_coupons(cart, coupons)
   coupons.each do |coupon|
     binding.pry
     if coupon
+    end
   end
 end
 
